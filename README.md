@@ -3,7 +3,6 @@
 > A clean website template I created for my personal website using [Bootstrap5](https://getbootstrap.com/).
 
 [![License](https://badgen.net/github/license/mdauthentic/dumide)](LICENSE)
-[![Commits count](https://badgen.net/github/commits/mdauthentic/dumide)](COMMITS)
 
 # License & Distribution
 
